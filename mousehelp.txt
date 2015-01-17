@@ -1,0 +1,10 @@
+sf::Vector2i localPosition = sf::Mouse::getPosition(window);
+
+sf::FloatRect boundingBox[4];
+
+sf::FloatRect boundingBox[i] = option[i].getGlobalBounds();
+
+if(boundingBox.contains( localPosition))
+{
+	//do something
+}

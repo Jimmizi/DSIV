@@ -1,0 +1,7 @@
+data/textures/grass/ledge1000x100.png
+data/textures/grass/ledge200x50.png
+data/textures/grass/ledge340x50.png
+data/textures/bulletL.png
+data/sfx/walk.wav
+data/sfx/jump.wav
+data/visitor.ttf

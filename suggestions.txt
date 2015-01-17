@@ -1,0 +1,2 @@
+- Certain towers to need more than one grid space
+- A chance for the tower to miss its shot
